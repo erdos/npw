@@ -11,19 +11,18 @@ wiki: rogallo wing http://en.wikipedia.org/wiki/Rogallo_wing
  - original reports http://2e5.com/kite/nasa/
 
 ### NPW 5
-
+ - quick overview http://pdj.home.xs4all.nl/nasa.htm
  - ENPW program http://pdj.home.xs4all.nl/nasaplan.htm
  - ENPW detailed description http://www.pawprince.com/pawprince/design/kites/construct/home.htm
  - French http://eolemag.free.fr/3juin2000/PLANMTROUILLET/ficheplan062000.htm
  - French http://home.nordnet.fr/~jmillecamps/miznet/npw5.htm
- - 
- 
+
 ### NPW HA
  - http://users.telenet.be/claeskites/page5.htm
 
 ### NPW 9
-
  - NPW9B http://freedom2000.free.fr/NPW_NPW9B_plans_eng.html
+ - detailed http://www.pointsunknown.com/blog/2011/02/nasa-para-wing-npw9b-construction/
 
 ### Teega
  - TEEGA http://freedom2000.free.fr/NPW_Teega_plans_eng.html
@@ -32,7 +31,13 @@ wiki: rogallo wing http://en.wikipedia.org/wiki/Rogallo_wing
 
  - NPW21 http://users.telenet.be/claeskites/page13%20NPW21.htm
 
+### NASASTAR
+
+### 
+
 ## youtube
 
- - NPW5 https://www.youtube.com/watch?v=uX_WS6CRqAo
+ - NPW **5** https://www.youtube.com/watch?v=uX_WS6CRqAo
+ - NPW **21** https://www.youtube.com/watch?v=Oj_vwv8BA78
+ - NASASRAE 7qm https://www.youtube.com/watch?v=hcfa1MquhXU
 
