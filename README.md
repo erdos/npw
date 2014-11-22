@@ -5,7 +5,7 @@ The NASA Parawing is a flexible airfoil type parachute/kite. It is very comforta
 
 [see: rogallo wing wikipedia entry](http://en.wikipedia.org/wiki/Rogallo_wing)
 
-## My 8sqm NPW9 Kite
+## My 8.0sqm NPW9 Kite
 
 First experiments in the Zebegeny kite festival, 2014
  - [video of first flight](https://www.youtube.com/watch?v=9PzG3DPEdX4)
